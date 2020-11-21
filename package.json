@@ -1,0 +1,23 @@
+{
+    "name": "my-blog",
+    "version": "1.1.4",
+    "repository": "http://recoluan.gitlab.io/vuepress-theme-reco-doc",
+    "author": "reco_luan",
+    "scripts": {
+        "dev": "vuepress dev docs",
+        "build": "vuepress build docs",
+        "deploy": "bash deploy.sh"
+    },
+    "devDependencies": {
+        "vuepress": "1.2.0",
+        "vuepress-plugin-dynamic-title": "^0.0.5",
+        "vuepress-plugin-flowchart": "1.4.3",
+        "vuepress-theme-reco": "^1.4.5"
+    },
+    "dependencies": {
+        "@vssue/api-github-v3": "^1.0.0",
+        "@vssue/vuepress-plugin-vssue": "^1.0.1",
+        "@vuepress-reco/vuepress-plugin-bgm-player": "^1.0.4",
+        "@vuepress-reco/vuepress-plugin-kan-ban-niang": "^1.0.5"
+    }
+}
