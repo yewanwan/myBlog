@@ -99,8 +99,8 @@ module.exports = {
             // 其他的 Vssue 配置
             owner: 'ShoutongLiu',
             repo: 'myBlog',
-            clientId: '37aac2c83866efc11f85',
-            clientSecret: 'e39e6953c9b6d5d8c133eeec0b1e0e3564080cd2',
+            clientId: '63ea16206d545151fb13',
+            clientSecret: 'fe7c0828d9ca4c98a89ac00a7a77c28ad73ed536',
             locale: 'zh',
         },
         "@vuepress-reco/vuepress-plugin-kan-ban-niang": {
