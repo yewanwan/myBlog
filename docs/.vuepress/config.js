@@ -120,13 +120,13 @@ module.exports = {
                 {
                     name: '以父之名',
                     artist: '周杰伦',
-                    url: 'http://wutom.club/media/bgms/以父之名.mp3',
+                    url: 'http://wutom.club/media/bgms/yfzm.mp3',
                     cover: 'http://wutom.club/media/imgs/yfzm.jpg'
                 },
                 {
                     name: '好想爱这个世界啊',
                     artist: '华晨宇',
-                    url: 'http://wutom.club/media/bgms/好想爱这个世界啊.mp3',
+                    url: 'http://wutom.club/media/bgms/hxazgsja.mp3',
                     cover: 'http://wutom.club/media/imgs/hxazgsja.jpg'
                 },
                 {
@@ -138,7 +138,7 @@ module.exports = {
                 {
                     name: '经济舱(live)',
                     artist: 'Kafe.Hu',
-                    url: 'http://wutom.club/media/bgms/经济舱.mp3',
+                    url: 'http://wutom.club/media/bgms/jjc.mp3',
                     cover: 'http://wutom.club/media/imgs/jjc.jpg'
                 },
                 {
@@ -150,7 +150,7 @@ module.exports = {
                 {
                     name: '烈火战马+空城计+重庆魂 (Live)',
                     artist: 'GAI周延',
-                    url: 'http://wutom.club/media/bgms/烈火战马+空城计+重庆魂.mp3',
+                    url: 'http://wutom.club/media/bgms/lkc.mp3',
                     cover: 'http://wutom.club/media/imgs/lhzm.jpeg'
                 },
             ],
