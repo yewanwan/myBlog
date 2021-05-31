@@ -99,8 +99,8 @@ module.exports = {
             // 其他的 Vssue 配置
             owner: 'ShoutongLiu',
             repo: 'myBlog',
-            clientId: '37aac2c83866efc11f85',
-            clientSecret: 'e39e6953c9b6d5d8c133eeec0b1e0e3564080cd2',
+            clientId: '63ea16206d545151fb13',
+            clientSecret: 'fe7c0828d9ca4c98a89ac00a7a77c28ad73ed536',
             locale: 'zh',
         },
         "@vuepress-reco/vuepress-plugin-kan-ban-niang": {
@@ -116,42 +116,43 @@ module.exports = {
         },
         // 背景音乐
         "@vuepress-reco/vuepress-plugin-bgm-player": {
-            audios: [{
-                name: '亲爱的旅人啊（Cover：木村弓）',
-                artist: '画久',
-                url: 'http://wutom.club/bgm/亲爱的旅人啊.mp3',
-                cover: 'http://wutom.club/bgm/qadlr.jpg'
-            },
-            {
-                name: '以父之名',
-                artist: '周杰伦',
-                url: 'http://wutom.club/bgm/以父之名.mp3',
-                cover: 'http://wutom.club/bgm/yfzm.jpg'
-            },
-            {
-                name: 'Beautiful Now',
-                artist: 'Zedd/Jon Bellion',
-                url: 'http://wutom.club/bgm/Beautiful Now.mp3',
-                cover: 'http://wutom.club/bgm/Beautiful.jpg'
-            },
-            {
-                name: '世界が終るまでは… (直到世界尽头)',
-                artist: 'WANDS (ワンズ)',
-                url: 'http://wutom.club/bgm/直到世界尽头.mp3',
-                cover: 'http://wutom.club/bgm/zdsjjt.jpg'
-            },
-            {
-                name: '年少有为',
-                artist: '李荣浩',
-                url: 'http://wutom.club/bgm/年少有为.mp3',
-                cover: 'http://wutom.club/bgm/nsyw.jpg'
-            },
-            {
-                name: '云烟成雨',
-                artist: '房东的猫',
-                url: 'http://wutom.club/bgm/云烟成雨.mp3',
-                cover: 'http://wutom.club/bgm/yycy.jpg'
-            },
+            audios: [
+                {
+                    name: '以父之名',
+                    artist: '周杰伦',
+                    url: 'http://wutom.club/media/bgms/yfzm.mp3',
+                    cover: 'http://wutom.club/media/imgs/yfzm.jpg'
+                },
+                {
+                    name: '好想爱这个世界啊',
+                    artist: '华晨宇',
+                    url: 'http://wutom.club/media/bgms/hxazgsja.mp3',
+                    cover: 'http://wutom.club/media/imgs/hxazgsja.jpg'
+                },
+                {
+                    name: 'Cradles',
+                    artist: 'Sub Urban',
+                    url: 'http://wutom.club/media/bgms/Cradles.mp3',
+                    cover: 'http://wutom.club/media/imgs/Cradles.jpg'
+                },
+                {
+                    name: '经济舱(live)',
+                    artist: 'Kafe.Hu',
+                    url: 'http://wutom.club/media/bgms/jjc.mp3',
+                    cover: 'http://wutom.club/media/imgs/jjc.jpg'
+                },
+                {
+                    name: 'MORE',
+                    artist: 'K_DA _ Madison Beer _ (G)I-DLE ((여자)아이들) _ 刘柏辛Lexie _ Jaira Burns _ Seraphine _ 英雄联盟',
+                    url: 'http://wutom.club/media/bgms/MORE.mp3',
+                    cover: 'http://wutom.club/media/imgs/more.jpg'
+                },
+                {
+                    name: '烈火战马+空城计+重庆魂 (Live)',
+                    artist: 'GAI周延',
+                    url: 'http://wutom.club/media/bgms/lkc.mp3',
+                    cover: 'http://wutom.club/media/imgs/lhzm.jpeg'
+                },
             ],
             position: {
                 left: '10px',
